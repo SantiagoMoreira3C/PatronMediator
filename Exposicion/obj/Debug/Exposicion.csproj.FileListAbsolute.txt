@@ -1,0 +1,6 @@
+C:\Users\Santiago Moreira\source\repos\Exposicion\bin\Debug\Exposicion.exe.config
+C:\Users\Santiago Moreira\source\repos\Exposicion\bin\Debug\Exposicion.exe
+C:\Users\Santiago Moreira\source\repos\Exposicion\bin\Debug\Exposicion.pdb
+C:\Users\Santiago Moreira\source\repos\Exposicion\obj\Debug\Exposicion.csprojAssemblyReference.cache
+C:\Users\Santiago Moreira\source\repos\Exposicion\obj\Debug\Exposicion.exe
+C:\Users\Santiago Moreira\source\repos\Exposicion\obj\Debug\Exposicion.pdb
